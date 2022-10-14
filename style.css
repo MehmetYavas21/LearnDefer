@@ -1,0 +1,32 @@
+body{
+    background-color: #ffdd;
+    width: 90%;
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.btn-alert {
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(113, 110, 110);
+    color: #ffdd;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 8px #101010;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+
+
+
+.blue-background {
+    background-color: blue;
+}
+.red-background {
+    background-color: red;
+}
